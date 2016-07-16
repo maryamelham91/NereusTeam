@@ -18,7 +18,7 @@ New parts : node express
 	Mihyar Masalmah
 
  Who is the scrum master?
-	Maryam elham 
+	Tawfik Kahwaje
 
 5) What is your app going to look like? (use moqups.com or a piece of paper to sketch something out)
 We haven't decided yet.
